@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "new CI-github-maven change");
+        System.out.println( "new poll-scm change");
     }
 }
